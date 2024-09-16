@@ -2,7 +2,7 @@
 <h3 align="center"> IT Student of NCIT. </h3>
 
  <div align="Center">
-  <img height="300" src="https://github.com/bijaysaud54/bijaysaud54/blob/main/c993756c67d6f44bd87425c0c18359c2.jpg"  />
+  <img height="300" src="https://github.com/bijaysaud54/bijaysaud54/blob/main/JJK.jpeg"  />
 </div>
 
 
